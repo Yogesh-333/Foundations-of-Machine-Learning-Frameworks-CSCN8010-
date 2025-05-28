@@ -67,3 +67,6 @@ jupyter nbconvert --to html "Practical_Lab_1.ipynb" --output-dir "outputs"
  ```bash
    pip install pandas numpy matplotlib scikit-learn jupyter
 ```
+## Github Pages
+Geneareted the HTML from the notebook view
+[https://yogesh-333.github.io/Foundations-of-Machine-Learning-Frameworks-CSCN8010-/]
